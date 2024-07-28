@@ -10,3 +10,5 @@
 
 5. [**Time Travel in LLMs: Tracing Data Contamination in Large Language Models**](https://arxiv.org/abs/2308.08493) *Shahriar Golchin, Mihai Surdeanu* ICLR 2024.
 
+6. [**A Multi-Perspective Analysis of Memorization in Large Language Models**](https://arxiv.org/abs/2405.11577) *Bowen Chen, Namgi Han, Yusuke Miyao* ArXiv 2024.
+
