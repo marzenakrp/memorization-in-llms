@@ -4,7 +4,9 @@
 
 1. [**Quantifying Memorization Across Neural Language Models**](https://arxiv.org/abs/2202.07646) *Nicholas Carlini, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Florian Tramer, Chiyuan Zhang* ICLR 2023.
 
-2.  [**Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4**](https://aclanthology.org/2023.emnlp-main.453/) *Kent Chang, Mackenzie Cramer, Sandeep Soni, David Bamman* EMNLP 2023.
+2. [**Extracting Training Data from Large Language Models**](https://arxiv.org/abs/2012.07805) *Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea, Colin Raffel* USENIX 2023. 
+
+3. [**Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4**](https://aclanthology.org/2023.emnlp-main.453/) *Kent Chang, Mackenzie Cramer, Sandeep Soni, David Bamman* EMNLP 2023.
 
 **2024**
 
