@@ -21,6 +21,8 @@
 5. [**A Multi-Perspective Analysis of Memorization in Large Language Models**](https://arxiv.org/abs/2405.11577) *Bowen Chen, Namgi Han, Yusuke Miyao* ArXiv 2024.
 
 6. [**Demystifying Verbatim Memorization in Large Language Models**](https://arxiv.org/abs/2407.17817) *Jing Huang, Diyi Yang, Christopher Potts* ArXiv 2024.
+   
+8. [**Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain**](https://arxiv.org/abs/2309.08133) *Katherine Lee, A. Feder Cooper, James Grimmelmann* Journal of the Copyright Society of the U.S.A. 2024.
 
 
 
